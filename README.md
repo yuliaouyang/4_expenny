@@ -1,36 +1,28 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-## Getting Started
+# Expenny
 
-First, run the development server:
+**Expenny** is a minimalist subscription management web application built to help users efficiently track and analyze their recurring expenses.
+\*\*Expenny（エクスペニー）\*\*は、ユーザーが定期的な支出を効率的に管理・分析できるように設計されたミニマルなサブスクリプション管理アプリです。
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 🔧 Core Features | 主な機能
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+* User authentication and real-time data storage with Firebase
+  　Firebaseによるユーザー認証とリアルタイムデータ保存
+* Add, edit, and delete subscription items
+  　サブスクリプション項目の追加・編集・削除
+* Monthly expense total and currency categorization
+  　月額費用の合計表示・通貨別の管理
+* Responsive and accessible interface
+  　レスポンシブで見やすいインターフェース
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+## 🛠 Tech Stack | 使用技術
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+* **Framework**: Next.js
+* **Styling**: FantaCSS
+* **Backend**: Firebase (Firestore, Auth)
 
-## Learn More
+## 📌 Project Purpose | プロジェクトの目的
 
-To learn more about Next.js, take a look at the following resources:
+This project demonstrates my ability to build a complete full-stack application with a clean UI, functional state handling, and secure backend integration.
+本プロジェクトでは、フルスタック開発におけるUI設計・状態管理・バックエンド統合のスキルをアピールしています。
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
