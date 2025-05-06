@@ -1,7 +1,7 @@
 
 # Expenny
 
-**Expenny** is a minimalist subscription management web application built to help users efficiently track and analyze their recurring expenses.
+**Expenny** is a minimalist subscription management web application built to help users efficiently track and analyze their recurring expenses. </br>
 Expenny（エクスペニー）は、ユーザーが定期的な支出を効率的に管理・分析できるように設計されたミニマルなサブスクリプション管理アプリです。
 
 ## 🔧 Core Features | 主な機能
@@ -23,7 +23,7 @@ Expenny（エクスペニー）は、ユーザーが定期的な支出を効率�
 
 ## 📌 Project Purpose | プロジェクトの目的
 
-This project demonstrates my ability to build a complete full-stack application with a clean UI, functional state handling, and secure backend integration.
+This project demonstrates my ability to build a complete full-stack application with a clean UI, functional state handling, and secure backend integration. </br>
 本プロジェクトでは、フルスタック開発におけるUI設計・状態管理・バックエンド統合のスキルをアピールしています。
 
 ## 🔗 Links | リンク 
