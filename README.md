@@ -26,5 +26,5 @@ Expenny（エクスペニー）は、ユーザーが定期的な支出を効率�
 This project demonstrates my ability to build a complete full-stack application with a clean UI, functional state handling, and secure backend integration.
 本プロジェクトでは、フルスタック開発におけるUI設計・状態管理・バックエンド統合のスキルをアピールしています。
 
-##🔗 Links | リンク 
+## 🔗 Links | リンク 
 Live: https://expennylog.netlify.app/
